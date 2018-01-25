@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="hplus" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/hplus.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
